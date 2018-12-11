@@ -3,7 +3,6 @@ This Repo is a collection of academical and industrial papers that I studied (al
 ·Email: louiswang524@gmail.com<br>
 ·LinkedIn:[Yufeng](https://www.linkedin.com/in/yu-feng/)<br>
 ## CTR Prediction
-![overview](https://image.jiqizhixin.com/uploads/editor/66fa50fd-f711-49f3-a1f8-75fa1396b0a4/1532256315405.png)<br>
 [Practical Lessons from Predicting Clicks on Ads at Facebook](http://quinonero.net/Publications/predicting-clicks-facebook.pdf)<br>
 
 ## Embedding
